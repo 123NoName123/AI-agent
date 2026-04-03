@@ -2,11 +2,9 @@
 
 ## 项目简介
 
-本项目是一个基于DDD架构的AI智能体学习平台，提供Auto Agent自动智能对话功能，支持流式响应和实时交互体验。
+本项目是一个AI智能体学习平台，提供Auto Agent自动智能对话功能，支持流式响应和实时交互体验。
 
 ## 技术架构
-
-- **架构模式**: DDD（领域驱动设计）
 - **后端技术**: Spring Boot + Java
 - **前端技术**: HTML5 + JavaScript + Tailwind CSS
 - **通信方式**: Server-Sent Events (SSE) 流式响应
